@@ -1,0 +1,5 @@
+---
+edeploy::state:
+  vm-centos: "*"
+
+apache::default_vhost: false
